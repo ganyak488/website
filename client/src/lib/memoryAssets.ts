@@ -11,13 +11,13 @@ export const MEMORY_ASSETS = [
     id: "memory-01",
     label: "MEMORY 01",
     fileName: "memory-01.jpg",
-    src: "/manus-storage/memory-01_3884473c.jpg",
+    src: "/images/memory-01.jpg",
   },
   {
     id: "memory-02",
     label: "MEMORY 02",
     fileName: "memory-02.jpg",
-    src: "/manus-storage/memory-02_a4ba5bda.jpg",
+    src: "/images/memory-02.jpg",
   },
 ] as const;
 
